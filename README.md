@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **MERN Full stack**
 
-- 📄 My portfolio [https://vamshidharonline.com/](vamshidharonline.com)
+- 📄 My portfolio [vamshidharonline.com](https://vamshidharonline.com/)
 
 - 📫 How to reach me **vamshidhardawoor644@gmail.com**
 
