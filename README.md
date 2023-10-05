@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/vamshidhardawo1" target="blank"><img src="https://img.shields.io/twitter/follow/vamshidhardawo1?logo=twitter&style=for-the-badge" alt="vamshidhardawo1" /></a> </p>
 
-- 🌱 I’m currently learning **MERN Full stack**
+- 🌱 Currently Working on **MERN Full stack Projects**
 
 - 📄 My portfolio [vamshidharonline.com](https://vamshidharonline.com/)
 
